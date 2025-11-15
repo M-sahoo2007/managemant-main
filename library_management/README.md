@@ -598,3 +598,13 @@ python -c "from app import app; from config import ADMIN_SECRET_CODE; print('✅
 **Python Version**: 3.8+  
 **Flask Version**: 2.3.3  
 **Werkzeug Version**: 2.3.7
+
+
+# Screen short 
+![HOME PAGE ](https://github.com/M-sahoo2007/IMAGE_REPO/blob/main/Screenshot_14-11-2025_121035_127.0.0.1.jpeg)
+![Admin Login](https://github.com/M-sahoo2007/IMAGE_REPO/blob/main/Screenshot_14-11-2025_121142_127.0.0.1.jpeg)
+![Student Login](https://github.com/M-sahoo2007/IMAGE_REPO/blob/main/Screenshot_14-11-2025_121153_127.0.0.1.jpeg)
+![Admin Registration](https://github.com/M-sahoo2007/IMAGE_REPO/blob/main/Screenshot_14-11-2025_121616_127.0.0.1.jpeg)
+![AdminDashboard](https://github.com/M-sahoo2007/IMAGE_REPO/blob/main/Screenshot_14-11-2025_121849_127.0.0.1.jpeg)
+![Student DashBoard](https://github.com/M-sahoo2007/IMAGE_REPO/blob/main/Screenshot_14-11-2025_123836_127.0.0.1.jpeg)
+ 
